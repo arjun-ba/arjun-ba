@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Arjun B A  
 
-<!--
-**arjun-ba/arjun-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi,+I'm+Arjun!;B.Tech+CS+Student;Aspiring+Software+Engineer)
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 B.Tech CSE Student  
+- 💻 Learning **Java | Python | Android Development**  
+- 🌟 Open to contributing to **open source projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## 📊 GitHub Stats  
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ba&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=arjun-ba&theme=radical)
+
+
