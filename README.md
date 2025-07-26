@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Arjun B A  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF5733&lines=Hi,+I'm+Arjun!;B.Tech+Student+from+India;Java+%7C+Python+%7C+Android+Learner;Open+to+Collaboration!)](https://git.io/typing-svg)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi,+I'm+Arjun!;B.Tech+CS+Student;Aspiring+Software+Engineer)
 
 ## 🚀 About Me  
